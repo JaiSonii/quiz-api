@@ -26,7 +26,7 @@ A simple yet robust backend API for a quiz application, built with Node.js and E
 
 **1. Clone the repository:**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/JaiSonii/quiz-api
 cd quiz-api
 ```
 
